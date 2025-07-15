@@ -32,12 +32,6 @@ Welcome to **Glaze & Grill**, a stunning, fully-responsive restaurant website th
 ![Homepage Preview](images/Home_2.png)
 *Beautiful homepage layout with hero section and menu highlight*
 
-![Menu Page](images/Food.png)
-*Interactive food categories with pricing*
-
-![Testimonials Section](images/Customer.png)
-*What customers are saying about us*
-
 ---
 
 ## 📄 License
