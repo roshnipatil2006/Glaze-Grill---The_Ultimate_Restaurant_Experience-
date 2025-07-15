@@ -1,24 +1,53 @@
+# 🍽️ Glaze & Grill - The Ultimate Restaurant Experience! 🍴
 
-### **🍽️ Glaze & Grill - The Ultimate Restaurant Experience! 🍴**
-
-Welcome to **Glaze & Grill**, a stunning, fully-responsive restaurant website that takes your food experience online! 🚀 From mouth-watering menus to customer testimonials, this website delivers it all with style and ease. Built with **HTML**, **CSS**, and **Bootstrap 5**, this project is a feast for both the eyes and the stomach! 🤩
-
----
-
-### **🔥 Features:**
-
-* **Responsive & Modern Design**: Looks amazing on any device – from your phone to your desktop! 📱💻
-* **Interactive Menu**: Explore scrumptious food categories, complete with prices and visuals. 🍕🍣
-* **Customer Love**: Read what delighted customers are saying! 💬
-* **Instant Search**: Find what you're craving with ease. 🔍
+Welcome to **Glaze & Grill**, a stunning, fully-responsive restaurant website that brings your food experience online! 🚀 From mouth-watering menus to glowing testimonials, this site has everything to leave a lasting impression. Built with **HTML**, **CSS**, and **Bootstrap 5**, it’s a treat for both the eyes and the appetite. 🤩
 
 ---
 
-### **Technologies Used:**
+## 🔥 Features
 
-* **HTML5** – for a solid web structure 🏗️
-* **CSS3** – to style your taste buds 🍒
-* **Bootstrap 5** – for a sleek, responsive layout 💪
-* **JavaScript** – to bring the site to life! 🎉
+* **Responsive & Modern Design** – Looks amazing on phones, tablets, and desktops! 📱💻
+* **Interactive Menu** – Browse delicious categories, each with images and prices. 🍕🍣
+* **Customer Love** – Real testimonials from happy customers. 💬
+* **Instant Search** – Find your favorite dish in seconds. 🔍
+
+---
+
+## 🛠️ Technologies Used
+
+* **HTML5** – Clean and semantic structure 🏗️
+* **CSS3** – Stylish and appetizing design 🍒
+* **Bootstrap 5** – Sleek, mobile-first layout 💪
+* **JavaScript** – For interactivity and smooth experience 🎉
+
+---
+
+## 📸 Preview
+
+> ✨ **See It in Action!** Here's a look at the website in action:
+
+![Homepage Preview](images/Home.png)
+*Beautiful homepage layout with hero section and menu highlight*
+
+![Homepage Preview](images/Home_2.png)
+*Beautiful homepage layout with hero section and menu highlight*
+
+![Menu Page](images/food.png)
+*Interactive food categories with pricing*
+
+![Testimonials Section](images/coustomer.png)
+*What customers are saying about us*
+
+---
+
+## 📄 License
+
+This project is open-source for **learning and portfolio use** 🎓. Feel free to explore, customize, and make it your own!
+
+---
+
+## 🚀 Want to Use It?
+
+Fork the repo, customize it with your own content, and make your restaurant shine online! 🌐
 
 ---
